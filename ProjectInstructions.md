@@ -136,6 +136,7 @@ Stretch goals should not be attempted until previous tickets have been completed
 - Include a `README.md` to the **root** directory.
   - Detail the concept of this project in psuedo code within the document.
   -  **[Pseudo Code Article](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)**
+  -  [What is a README file?](https://www.mygreatlearning.com/blog/readme-file/)
 -  Create your own theme for the site.
    -  background images, color theme, ect.
 -  Provide a placeholder where the category answer will display above the grid display.
