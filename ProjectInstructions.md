@@ -1,4 +1,6 @@
 # Jeopardy
+## Project Rubric
+[Jeopardy Rubric](https://docs.google.com/spreadsheets/d/1Wid2efXlNyuhEBcKcZtYFAUCaF9wTDm0YT2cU8ZP_gY/edit?usp=sharing)
 
 ## Style Guide
 - Each ticket may have specific requirements to complete a task. Anything outside of stated requirements can be flexible.
